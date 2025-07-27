@@ -1,0 +1,16 @@
+train: C:/Users/kumar/OneDrive/Desktop/PhoneDetector/dataset/train/images
+val: C:/Users/kumar/OneDrive/Desktop/PhoneDetector/dataset/valid/images
+test: C:/Users/kumar/OneDrive/Desktop/PhoneDetector/dataset/test/images
+
+nc: 4
+names: ['6', 'Mobile Phone', 'phone', 'undefined']
+
+
+roboflow:
+  workspace: driver-sleep-detection
+  project: mobile-detection-cdimd
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/driver-sleep-detection/mobile-detection-cdimd/dataset/1
+  
+  
