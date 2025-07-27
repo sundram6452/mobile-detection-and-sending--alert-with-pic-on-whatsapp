@@ -39,5 +39,7 @@ This project detects mobile phones in real-time using a webcam, triggers a sound
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/phone-detector-yolo.git
-cd phone-detector-yolo
+git clone https://github.com/sundram6452/mobile-detection-and-sending--alert-with-pic-on-whatsapp
+cd phoneDetector
+python phone_detector.py
+
